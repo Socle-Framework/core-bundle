@@ -1,0 +1,9 @@
+{
+    "name": "socle-framework/core-bundle",
+    "description": "The Symfony kernel bundle of Socle. Released with Socle 1.0.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "support": {
+        "email": "contact@socle-framework.com"
+    }
+}
